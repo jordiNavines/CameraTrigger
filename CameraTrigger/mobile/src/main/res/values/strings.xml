@@ -1,0 +1,7 @@
+<resources>
+    <string name="start_wearable_activity">Start Wearable Activity</string>
+    <string name="app_name">Camera Trigger</string>
+    <string name="start">Start</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="send_photo">Send Photo</string>
+</resources>
